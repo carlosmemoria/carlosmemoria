@@ -3,7 +3,7 @@
 - 🌱 Atualmente, estou aprendendo novas técnicas de machine learning e aprimorando minhas habilidades de desenvolvimento.
 - 💞️ Estou procurando colaborar em projetos inovadores e desafiadores.
 - 📫 Como me encontrar: Você pode entrar em contato comigo através do meu e-mail carlos@memoria.pro
-- 📱 Me chame no WhatsApp: WhatsApp
+- 📱 Me chame no WhatsApp: https://wa.me/5561995804470
 
 <!---
 carlosmemoria/carlosmemoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
